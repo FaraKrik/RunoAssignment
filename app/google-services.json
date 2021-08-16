@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197891433442",
+    "firebase_url": "https://runo-login-register-default-rtdb.firebaseio.com",
+    "project_id": "runo-login-register",
+    "storage_bucket": "runo-login-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197891433442:android:7b3c59c9b349c5217a0fbb",
+        "android_client_info": {
+          "package_name": "com.example.runoassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197891433442-jadac8sbpdte690jj8f1bedtkvcdql4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuI2WxvTttAFhUZ6w-sOZTOzBPtnelWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197891433442-jadac8sbpdte690jj8f1bedtkvcdql4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
